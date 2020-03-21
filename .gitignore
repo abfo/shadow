@@ -1,3 +1,7 @@
+#Directories
+Debug/
+Release/
+
 # Prerequisites
 *.d
 
@@ -30,3 +34,12 @@
 *.exe
 *.out
 *.app
+*.suo
+/ShadowTask/.vs/ShadowTask/v16/Browse.VC.db
+/ShadowTask/.vs/ShadowTask/v16/Browse.VC.opendb
+*.user
+*.sdf
+*.pdb
+*.ilk
+*.ipch
+*.tlog
