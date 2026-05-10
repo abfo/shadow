@@ -1,6 +1,7 @@
 #Directories
 Debug/
 Release/
+.vs/
 
 # Prerequisites
 *.d
